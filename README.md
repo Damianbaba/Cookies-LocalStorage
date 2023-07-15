@@ -4,7 +4,8 @@ The "Cookie Alert | Local Storage" project aims to provide a cookie consent aler
 
 The project consists of an HTML file, a CSS file, and a JavaScript file. The HTML file defines the structure of the cookie alert box, including the text message and the accept button. The CSS file contains the styles to customize the appearance of the cookie alert box. The JavaScript file handles the functionality of showing and hiding the cookie alert box and storing the user's consent preference in the local storage.
 
-Purpose
+# Purpose
+
 The purpose of this project is to ensure compliance with privacy regulations and provide a user-friendly experience for website visitors. By displaying a cookie consent alert, the project allows website owners to inform users about the use of cookies and obtain their consent.
 
 The project utilizes local storage to remember the user's consent preference. If the user accepts the cookies, their preference is stored in the local storage, and the cookie alert box will no longer be displayed on subsequent visits.
